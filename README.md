@@ -3,7 +3,7 @@ I'm Harish D, <br>a passion-driven Cyber Security Engineering student and aspiri
 
 
 ## 🌐 Socials:
-[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harish-d-2023) 
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harish-d2023) 
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=harish-d2023&theme=dark&hide_border=false)<br/>
